@@ -1,6 +1,6 @@
 cask "instantfocus" do
-  version "0.1.0"
-  sha256 "fd22fe76af47aa4d69f8478ad5decdec621f712dbf9c13b4180b1fad68b49378"
+  version "0.1.1"
+  sha256 "e813730c7fe25dede85ab7ff17d29f75a8c80b0e87bd821d61c3c6e5c5e05f88"
 
   url "https://github.com/vasilgen/instant-focus/releases/download/v#{version}/InstantFocus-#{version}.zip"
   name "InstantFocus"
